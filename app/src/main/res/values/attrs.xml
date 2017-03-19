@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FMView">
+        <attr name="fm_min" format="float"/>
+        <attr name="fm_max" format="float"/>
+        <attr name="fm_gap" format="float"/>
+    </declare-styleable>
+
+</resources>
